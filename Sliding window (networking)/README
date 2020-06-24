@@ -1,0 +1,1 @@
+Sprawdzane przy użyciu polecenia /usr/bin/time -v ./transport [tu powinien być adres serwera z którego pobieramy dane] 40001 mojout 9000000
