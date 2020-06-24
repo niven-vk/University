@@ -1,1 +1,2 @@
-Sprawdzane przy użyciu polecenia /usr/bin/time -v ./transport [tu powinien być adres serwera z którego pobieramy dane] 40001 mojout 9000000
+My implementation of sliding window algorithm used to download raw data from a server under the assumption that many transfer errors will occur.
+Checked out using: /usr/bin/time -v ./transport [host server address] 40001 [output filename] 9000000
